@@ -27,3 +27,18 @@ h1 {
   flex-direction: column;
   gap: 10px;
 }
+
+.btn {
+  cursor: pointer;
+  width: 100px;
+  margin: 10px;
+  color: var(--dark-grey);
+  background-color: var(--golden-yellow);
+  background-image: linear-gradient(#f4a261, #e76f51);
+  border-color: var(--golden-yellow);
+  border-width: 3px;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#e76f51, #d62828);
+}
