@@ -42,3 +42,17 @@ h1 {
 .btn:hover {
   background-image: linear-gradient(#e76f51, #d62828);
 }
+.task-form {
+  background-color: var(--white);
+  border-radius: 8px; /* slight increase */
+  padding: 15px;
+  width: 300px;
+  height: 350px;
+  /* rest unchanged */
+}
+
+#confirm-close-dialog {
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 20px; /* subtle rounding */
+}
