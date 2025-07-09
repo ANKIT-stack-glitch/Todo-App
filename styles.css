@@ -56,3 +56,16 @@ h1 {
   margin: 10px auto;
   border-radius: 20px; /* subtle rounding */
 }
+
+.discard-message-text {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: var(--yellow);
+}
+
+.task-form-label {
+  color: var(--dark-grey);
+  margin-bottom: 5px;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
