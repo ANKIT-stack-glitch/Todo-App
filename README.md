@@ -13,7 +13,16 @@ A simple and intuitive Todo application built using **HTML**, **CSS**, and **Jav
 
 ## 📸 Screenshot
 
-![Todo App Screenshot](https://user-images.githubusercontent.com/yourusername/todo-app-screenshot.png)  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae3f3634-a222-4aa4-b97b-49d49e600154" alt="Screenshot 1" width="400" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/2b94e6e9-83f7-4831-b2a9-edb9c80f4d78" alt="Screenshot 2" width="400" />
+</p>
+
+
+
+
+
+ 
 
 
 ---
@@ -73,5 +82,13 @@ Clone this repository to your local machine using:
 ```bash
 git clone https://github.com/ANKIT-stack-glitch/todo-app.git
 cd todo-app
+
+```
+---
+## 📬 Connect with Me
+
+👨‍💻 **Ankit Poudel**
+
+🔗 [GitHub Profile](https://github.com/ANKIT-stack-glitch)
 
 
